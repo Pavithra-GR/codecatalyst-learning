@@ -47,4 +47,16 @@ This work with the project Hostel Attendance System .
     3. git commit -m "New branch"
     4. git push origin "secondary-branch"  (Automatically adds a branch in github)
 
-on secondary branch 
+10. Merge the new branch with main branch
+11. Simulate a merge conflict by editing the same file in two branches, then resolve the conflict and commit the changes.
+    1. git checkout "main"
+    2. git pull origin main
+    3. git merge secondary-branch
+    (Edit the  merged file by removing <<<<=====>>>> etc.,)
+    4. git add README.md
+    5. git commit -m "Resolved merge conflict in README.md"
+    6. git push origin main
+
+12. Confirm the merge by checking the branch status
+    1. git log --oneline --graph
+
