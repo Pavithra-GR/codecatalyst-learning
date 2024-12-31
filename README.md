@@ -1,6 +1,7 @@
 ﻿# codecatalyst-learning
 This work with the project Hostel Attendance System .
 
+
 --GIT LEARNING
 
  1. Configure Git Bash with your username, email, password, etc
@@ -45,3 +46,5 @@ This work with the project Hostel Attendance System .
     2. git add .
     3. git commit -m "New branch"
     4. git push origin "secondary-branch"  (Automatically adds a branch in github)
+
+on secondary branch 
