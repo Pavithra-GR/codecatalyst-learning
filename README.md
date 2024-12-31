@@ -60,4 +60,9 @@ This work with the project Hostel Attendance System .
 12. Confirm the merge by checking the branch status
     1. git log --oneline --graph
 
-![alt text](image-1.png)
+![alt text](<Screenshot 2024-12-31 190558.png>)
+![alt text](<Screenshot 2024-12-31 190635.png>)
+![alt text](<Screenshot 2024-12-31 190657.png>)
+![alt text](<Screenshot 2024-12-31 190712.png>)
+![alt text](<Screenshot 2024-12-31 190729.png>)
+![alt text](image-2.png)
