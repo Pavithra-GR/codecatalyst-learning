@@ -42,4 +42,6 @@ This work with the project Hostel Attendance System .
 
 9. Switch to the "secondary-branch" branch
     1. git checkout "secondary-branch"
-
+    2. git add .
+    3. git commit -m "New branch"
+    4. git push origin "secondary-branch"  (Automatically adds a branch in github)
