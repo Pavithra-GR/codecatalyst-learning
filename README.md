@@ -1,6 +1,8 @@
 ﻿# codecatalyst-learning
 This work with the project Hostel Attendance System .
 
+--GIT LEARNING
+
  1. Configure Git Bash with your username, email, password, etc
     1. Set Your Git Name to Match GitHub(Use the same name as your GitHub profile )
     git config --global user.name "Your GitHub Name" 
